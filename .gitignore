@@ -1,3 +1,5 @@
+.idea
+.env
 credentials.py
 app.py
 streamlit_app.py
